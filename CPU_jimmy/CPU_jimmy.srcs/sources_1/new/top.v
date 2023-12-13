@@ -1,8 +1,5 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: Closure Laboratories
-// Engineer: Eduardo Corpeño
-// 
 // Create Date: 05/22/2020 02:41:57 PM
 // Design Name: Jimmy, an 8-bit RISC soft processor
 // Module Name: jimmy
